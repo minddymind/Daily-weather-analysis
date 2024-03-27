@@ -1,13 +1,6 @@
-# *Daily-Weather-Analysis* 🌦️🌈
-
-## *Members* 
-<img align='right' src="https://media1.giphy.com/media/MDaMURfqSp7H1mQ1Ga/giphy.gif" width="240">
-
-  - Komsan Janlaung student-id 650510601 section 001 
-  - Kanokwan Mingkwan student-id 650510652 section 001
-  - Chananchida Prathum student-id 650510659 section 001
+# *Daily Weather in Madrid between 1997-2015* 🌦️🌈
+  I and my team select data from datasets to represent "How daily weather in madrid between 1997-2015" that use linear, histogram, table. This can use for plan your madrid trip or something you want.
   
-
 ## *Link to Kaggle* 🚀
   - https://www.kaggle.com/datasets/mysarahmadbhat/madrid-daily-weather?fbclid=IwAR2AOao6ATmZuvoyLPI18-nY63Z-WnzbN1eB3LickcgDMvU4Txnhl1nEBNM
 
