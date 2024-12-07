@@ -29,7 +29,7 @@ The dataset is publicly available on **Kaggle**:
 
 | Name                       | GitHub Profile                                    |  
 |----------------------------|---------------------------------------------------|  
-| **Kanokwan Mingkhaun**     | [MMJIIIi](https://github.com/MMJIIIi)             |  
+| **Kanokwan Mingkhuan**     | [MMJIIIi](https://github.com/MMJIIIi)             |  
 | **Komsan Janluang**        | [sunsonsu](https://github.com/sunsonsu)           |  
 | **Chananchida Prathum**    | [minddymind](https://github.com/minddymind)       |  
 
